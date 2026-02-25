@@ -1,0 +1,18 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# IntelliJ/IDE files
+.idea/
+*.iml
+
+# Build outputs
+/build/
+/dist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
