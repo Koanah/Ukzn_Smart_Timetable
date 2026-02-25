@@ -1,0 +1,4 @@
+[flake8]
+exclude = venv,*.egg-info,.git
+max-complexity = 10
+max-line-length = 127
